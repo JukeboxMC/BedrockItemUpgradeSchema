@@ -1,0 +1,57 @@
+{
+  "renamedIds": {
+    "minecraft:yellow_flower": "minecraft:dandelion"
+  },
+  "remappedMetas": {
+    "minecraft:light_block": {
+      "0": "minecraft:light_block_0",
+      "1": "minecraft:light_block_1",
+      "2": "minecraft:light_block_2",
+      "3": "minecraft:light_block_3",
+      "4": "minecraft:light_block_4",
+      "5": "minecraft:light_block_5",
+      "6": "minecraft:light_block_6",
+      "7": "minecraft:light_block_7",
+      "8": "minecraft:light_block_8",
+      "9": "minecraft:light_block_9",
+      "10": "minecraft:light_block_10",
+      "11": "minecraft:light_block_11",
+      "12": "minecraft:light_block_12",
+      "13": "minecraft:light_block_13",
+      "14": "minecraft:light_block_14",
+      "15": "minecraft:light_block_15"
+    },
+    "minecraft:sandstone": {
+      "0": "minecraft:sandstone",
+      "1": "minecraft:chiseled_sandstone",
+      "2": "minecraft:cut_sandstone",
+      "3": "minecraft:smooth_sandstone"
+    },
+    "minecraft:anvil": {
+      "0": "minecraft:anvil",
+      "1": "minecraft:chipped_anvil",
+      "2": "minecraft:damaged_anvil",
+      "3": "minecraft:deprecated_anvil"
+    },
+    "minecraft:quartz_block": {
+      "0": "minecraft:quartz_block",
+      "1": "minecraft:chiseled_quartz_block",
+      "2": "minecraft:quartz_pillar",
+      "3": "minecraft:smooth_quartz"
+    },
+    "minecraft:red_sandstone": {
+      "0": "minecraft:red_sandstone",
+      "1": "minecraft:chiseled_red_sandstone",
+      "2": "minecraft:cut_red_sandstone",
+      "3": "minecraft:smooth_red_sandstone"
+    },
+    "minecraft:dirt": {
+      "0": "minecraft:dirt",
+      "1": "minecraft:coarse_dirt"
+    },
+    "minecraft:sand": {
+      "0": "minecraft:sand",
+      "1": "minecraft:red_sand"
+    }
+  }
+}
